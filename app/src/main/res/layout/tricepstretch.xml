@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tricepstretch"
+    tools:context=".tricepActivity">
+
+    <Button
+        android:layout_width="130dp"
+        android:layout_height="40dp"
+        android:id="@+id/back_button"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="80dp"
+        android:text="Back"
+        android:textSize="17sp"/>
+
+    <Button
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:id="@+id/dchat_button"
+        android:layout_marginTop="600dp"
+        android:layout_marginLeft="20dp"
+        app:cornerRadius = "50dp"
+        android:drawablePadding="15dp"
+        android:drawableLeft="@drawable/ic_baseline_chat_bubble_24" />
+
+    <Button
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:id="@+id/camera_button"
+        android:layout_marginTop="600dp"
+        android:layout_marginLeft="140dp"
+        app:cornerRadius = "50dp"
+        android:drawablePadding="15dp"
+        android:drawableLeft="@drawable/ic_baseline_photo_camera_24" />
+
+    <Button
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:id="@+id/setting_button"
+        android:layout_marginTop="600dp"
+        android:layout_marginLeft="255dp"
+        app:cornerRadius = "50dp"
+        android:drawablePadding="15dp"
+        android:drawableLeft="@drawable/ic_baseline_settings_24" />
+
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520301464571",
+    "project_id": "intelli-care",
+    "storage_bucket": "intelli-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520301464571:android:ecf4e11ef2d70a85c6195e",
+        "android_client_info": {
+          "package_name": "com.android.example.intellicare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlx58SaQs1akEFPrRtjsYqIPhPhqkUxeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

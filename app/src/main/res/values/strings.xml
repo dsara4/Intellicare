@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Intelli Care</string>
+    <string name="clinic_hospital_address">Clinic/Hospital Address</string>
+    <string name="username">Username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="medical_identification_no">Medical Identification No.</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Username</string>
+    <string name="password_login">Password</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="or_sign_up_to_continue">Or Sign Up to Continue</string>
+    <string name="back">Back</string>
+</resources>
